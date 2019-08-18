@@ -1,4 +1,8 @@
-# <Project Name>
+# August 2019 Homework Assigment
+
+## Description:
+
+The following outlines the details and installation process of a debugging assignment completed using rspec tests.
 
 <Project Description>
 
